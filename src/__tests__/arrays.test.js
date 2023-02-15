@@ -1,3 +1,5 @@
+console.log("test")
+
 const {
   getNthElement,
   arrayToCSVString,
